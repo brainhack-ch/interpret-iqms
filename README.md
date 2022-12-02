@@ -22,7 +22,7 @@ The motion was artifically induced by giving the subjects cues when to node thei
 
 We are using two different approaches to this problem.
 
-1. We use dimensionality reduction techniques such as PCA, ICA, or Factor Analysis to find summary dimensions that combine the metrics with potentially redundant information.
+1. We use dimensionality reduction techniques such as PCA, ICA, Factor Analysis, or TSNE to find summary dimensions that combine the metrics with potentially redundant information.
 
 2. We use machine learning, in particular supervised learning, to predict the quality ratings and/or the motion condition of the images from the IQMs.
 
