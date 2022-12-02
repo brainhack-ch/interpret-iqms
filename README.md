@@ -12,7 +12,7 @@ Image Quality Metrics (IQMs) are automatically generated metrics that reflect di
 
 **What data do we use?**
 
-We will use the [Movement-Related Artifacts (MR-ART)](https://www.nature.com/articles/s41597-022-01694-8) dataset. It contains the T1-weighted images of 148 healthy subjects. For every subject, there are images in three conditions:
+We will use the [Movement-Related Artifacts (MR-ART)](https://www.nature.com/articles/s41597-022-01694-8) dataset. It contains the T1-weighted images of 148 healthy subjects. Each subject has been acquired under three motion conditions:
 
 1. no head movement
 2. little head movement
