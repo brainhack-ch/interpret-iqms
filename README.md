@@ -17,7 +17,9 @@ We will use the [Movement-Related Artifacts (MR-ART)](https://www.nature.com/art
 1. no head movement
 2. little head movement
 3. much head movement
+
 The motion was artifically induced by giving the subjects cues when to node their head.
+
 **How are we approaching the problem?**
 
 We are using two different approaches to this problem.
