@@ -4,7 +4,7 @@ In this project we want to improve the interpretability of the Image Quality Met
 
 **What is MRIQC?**
 
-MRIQC is an open-source tool to assess the quality of MRI images. It generates visual reports for every scan, as well as a number of IQMs which are collected in a group-level report.
+MRIQC is an open-source tool to assess the quality of structural and functional MRI images. It generates visual reports for every scan, as well as a number of IQMs which are collected in a group-level report.
 
 **What are IQMs?**
 
