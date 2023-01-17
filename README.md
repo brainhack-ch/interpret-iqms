@@ -28,8 +28,6 @@ We are using two different approaches to this problem.
 
 2. We use machine learning, in particular supervised learning, to predict the quality ratings and/or the motion condition of the images from the IQMs.
 
-We will combine what we learned with both approaches in a dedicated notebook.
+**What is the output?**
 
-**What will be the output?**
-
-We will combine what we learned in a notebook that will be part of the [Nipreps QC book](https://www.nipreps.org/qc-book/welcome.html). We need to export our notebook that summarizes the approaches that worked in markdown and create a pull request to add it as a chapter in the [repo for the QC book](https://github.com/nipreps/qc-book).
+We combined what we learned with both approaches in a [dedicated notebook](./code/interpretability-of-iqms.ipynb). This notebook is aimed at being an educational ressource for researchers willing to learn how to analyse and interpret IQMs. This notebook has furthermore been integrated into the [Nipreps QC book](https://www.nipreps.org/qc-book/auto-qc/iqms_intepretability.html).
