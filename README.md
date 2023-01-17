@@ -30,4 +30,4 @@ We are using two different approaches to this problem.
 
 **What is the output?**
 
-We combined what we learned with both approaches in a [dedicated notebook](./code/interpretability-of-iqms.ipynb). This notebook is aimed at being an educational ressource for researchers willing to learn how to analyse and interpret IQMs. This notebook has furthermore been integrated into the [Nipreps QC book](https://www.nipreps.org/qc-book/auto-qc/iqms_intepretability.html).
+We combined what we learned with both approaches in a [dedicated notebook](./code/interpretability-of-iqms.ipynb). This notebook is aimed at being an educational ressource for researchers willing to learn how to analyse and interpret IQMs. This notebook has additionally been integrated into the [Nipreps QC book](https://www.nipreps.org/qc-book/auto-qc/iqms_intepretability.html). The results have been submitted as an abstract to OHBM Montréal 2023. This abstract is entitled ""Signal-to-noise ratio estimates predict head motion presence in T1-weighted MRI" and is available at [https://osf.io/7vqzr/](https://osf.io/7vqzr/).
